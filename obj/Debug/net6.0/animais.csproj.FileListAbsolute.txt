@@ -1,0 +1,15 @@
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.csproj.AssemblyReference.cache
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.AssemblyInfoInputs.cache
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.AssemblyInfo.cs
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\animais\bin\Debug\net6.0\animais.exe
+C:\Users\marci\Desktop\animais\bin\Debug\net6.0\animais.deps.json
+C:\Users\marci\Desktop\animais\bin\Debug\net6.0\animais.runtimeconfig.json
+C:\Users\marci\Desktop\animais\bin\Debug\net6.0\animais.dll
+C:\Users\marci\Desktop\animais\bin\Debug\net6.0\animais.pdb
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.dll
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\refint\animais.dll
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.pdb
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\animais.genruntimeconfig.cache
+C:\Users\marci\Desktop\animais\obj\Debug\net6.0\ref\animais.dll
